@@ -38,7 +38,7 @@ export default class MyDocument extends Document {
             rel='stylesheet'
           />
         </Head>
-        <body>
+        <body id="body">
           <Main />
           <NextScript />
           <div id='modal' />

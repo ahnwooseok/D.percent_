@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 import { Wrapper, Left, Right, SubTitle, Title, Anchor, Background } from './styles';
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 function HomeMain() {
 
