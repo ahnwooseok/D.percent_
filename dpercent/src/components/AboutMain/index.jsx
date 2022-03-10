@@ -7,14 +7,8 @@ import {
 
 
 function AboutMain() {
-
-
   return (
-
-
-
       <Wrapper>
-
         hello!
       </Wrapper>
   );
